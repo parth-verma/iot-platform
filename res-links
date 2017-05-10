@@ -1,0 +1,35 @@
+## setting up mqtt broker on an ec2 istance
+http://forkbomb-blog.de/2013/installing-a-hivemq-mqtt-server-on-aws-ec2-with-enabled-websockets
+
+## python library for mqtt service
+https://pypi.python.org/pypi/paho-mqtt/1.1
+
+## protocols for iot
+http://blog.ubidots.com/choosing-the-right-protocol-to-send-data-to-remote-devices
+
+## MQTT docs
+http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html
+
+## iot tools
+https://techbeacon.com/67-open-source-tools-resources-iot
+
+## OLA DOCS
+https://developers.olacabs.com/docs/cab-booking
+
+## UBER Docs
+https://developer.uber.com/docs/riders/ride-requests/tutorials/api/python
+
+## UDP help material
+https://msdn.microsoft.com/en-us/library/tst0kwb1(v=vs.110).aspx
+
+## chatbot api
+https://api.ai/
+
+## philips hue api docs
+http://www.burgestrand.se/hue-api/
+
+## python package for chromecast
+https://github.com/balloob/pychromecast
+
+## stuff like ours
+https://home-assistant.io/
